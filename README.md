@@ -1,2 +1,0 @@
-# mathtraining
-Created with CodeSandbox
